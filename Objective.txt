@@ -1,14 +1,11 @@
 Job Details
 
 Summary
-I’m working with an Excel dataset containing 37,421 rows. There are missing country and year founded information. 
+I’m working with an Excel dataset containing 50 rows. There are missing country and year founded information. 
 I also have a separate reference company table that may help fill in some of the missing values.
 
 For someone experienced with Python (Pandas) or similar data tools, the first part—auto-filling based on the reference table—should be relatively quick. 
-However, many rows may still require LLM-based matching (e.g., GPT) or even manual lookup (e.g., via Google) to complete.
 
-This is a fixed-price project, so I’m hoping to automate as much as possible for efficiency. 
 You’re welcome to use pandas, GPT, or any other tooling you prefer. I’d like to review the code used to ensure accuracy and reproducibility.
 
-Budget: $150.00 (Fixed-price)
 Experience Level: Entry level
